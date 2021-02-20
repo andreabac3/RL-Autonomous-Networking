@@ -2,6 +2,7 @@
 
 This repository contains the three project developed for the course Autonomous Networking.
 The projects are related on Reinforcement Learning techniques used in a Drone simulator posted on Github at this Link.<br>
+Grade: 30 with Laude / 30 <br>
 [Page Course](https://twiki.di.uniroma1.it/twiki/view/AN/WebHome).<br>
 [Github Simulator](https://github.com/Andrea94c/DroNETworkSimulator).
 

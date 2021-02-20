@@ -8,7 +8,7 @@ We work over an semplified TDMA approach, each time step only one drone can rece
 """
 
 
-class AI_MAC_1747105(DepotMAC):
+class AI_MAC(DepotMAC):
 
     def __init__(self, simulator, depot):
         super().__init__(simulator, depot)

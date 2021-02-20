@@ -6,7 +6,7 @@ from src.routing_algorithms.BASE_routing import BASE_routing
 from matplotlib import pyplot as plt
 
 
-class AI_1747105(BASE_routing):
+class AI(BASE_routing):
     def __init__(self, drone, simulator):
         BASE_routing.__init__(self, drone, simulator)
         # random generator
